@@ -1,4 +1,4 @@
-# 🧠 Coding Playground
+# My Code
 
 Personal repo for LeetCode solutions, experiments, and random coding stuff.
 
